@@ -100,25 +100,16 @@ Strategic Project Management • Team Leadership • Technical Documentation •
 
 
 
-## 🤝 Let’s Collaborate
-
-If you'd like to collaborate on Data Engineering, Data Analytics, Business Intelligence, or Frontend projects, feel free to connect.
-
-📧 Email: YOUR_EMAIL_HERE
-
-💼 LinkedIn: YOUR_LINKEDIN_PROFILE_HERE
-
----
 
 ## 🏆 GitHub Highlights
 
 <p align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ampaKR0711&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ampaKR0711&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ampaKR0711&theme=tokyonight" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=ampaKR0711&theme=tokyonight&hide_border=true" height="180em"/>
 
 </p>
 
@@ -126,6 +117,13 @@ If you'd like to collaborate on Data Engineering, Data Analytics, Business Intel
 
   <!-- Productive Time -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ampaKR0711&theme=tokyonight&utcOffset=5.5" />
+
+</p>
+
+<p align="center">
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampaKR0711&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
 
 </p>
 
