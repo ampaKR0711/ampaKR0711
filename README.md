@@ -3,59 +3,33 @@
   <img src="https://github.com/ampaKR0711/ampaKR0711/blob/main/github_pic.jpeg?raw=true" width="100%" />
 </p>
 
-# Hi 👋, I'm AMPA RANJAN
+<h1 align="center">Hi 👋, I'm Ampa Ranjan</h1>
 
-### Computer Science Student • Data Engineering & Analytics Enthusiast • Developer
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=700&lines=Computer+Science+Student;Data+Engineering+%26+Analytics+Enthusiast;Databricks+Hackathon+Participant;Power+BI+%7C+Spark+%7C+PySpark+Learner;Building+Data-Driven+Projects" alt="Typing SVG" />
-</p>
+<h3 align="center">
+Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent Systems Builder
+</h3>
 
 
+---
+
+# 🚀 About Me
+
+🎓 B.Tech Computer Science and Engineering Student at KIIT University  
+📊 Passionate about Data Engineering, Analytics, and Intelligent Systems  
+📈 Strong interest in Financial Analytics & Stock Market Analysis  
+🧠 Exploring scalable data pipelines, AI systems, and analytics engineering  
+💡 Building projects that combine data, automation, and real world problem solving
+
+---
+
+# 🌟 Interests Beyond Tech
+
+💃 Dance  
+📖 Diary Writing  
+🐎 Horse Riding  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github.com/ampaKR0711/ampaKR0711/blob/main/GITHUB_IMAGE.jpeg?raw=true" width="100%" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## 🛠️ Tech Stack
 
