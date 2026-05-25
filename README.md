@@ -101,13 +101,15 @@ Strategic Project Management • Team Leadership • Technical Documentation •
 
 <p align="center">
 
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ampaKR0711&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" 
+    src="https://github-readme-stats.vercel.app/api?username=ampaKR0711&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
     height="180em"
   />
 
+  <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ampaKR0711&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" 
+    src="https://streak-stats.demolab.com?user=ampaKR0711&theme=tokyonight&hide_border=true&border_radius=12"
     height="180em"
   />
 
@@ -115,8 +117,9 @@ Strategic Project Management • Team Leadership • Technical Documentation •
 
 <p align="center">
 
+  <!-- Contribution Graph / Profile Summary -->
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ampaKR0711&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ampaKR0711&theme=tokyonight"
     width="95%"
   />
 
@@ -124,13 +127,15 @@ Strategic Project Management • Team Leadership • Technical Documentation •
 
 <p align="center">
 
+  <!-- Productive Time -->
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ampaKR0711&theme=tokyonight&utcOffset=5.5" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ampaKR0711&theme=tokyonight&utcOffset=5.5"
     height="180em"
   />
 
+  <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampaKR0711&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampaKR0711&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
     height="180em"
   />
 
