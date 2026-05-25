@@ -1,3 +1,46 @@
+<!-- Banner -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Banner" width="100%" />
+</p>
+
+# Hi 👋, I'm AMPA RANJAN
+
+### Computer Science Student • Data Engineering & Analytics Enthusiast • Developer
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=700&lines=Computer+Science+Student;Data+Engineering+%26+Analytics+Enthusiast;Databricks+Hackathon+Participant;Power+BI+%7C+Spark+%7C+PySpark+Learner;Building+Data-Driven+Projects" alt="Typing SVG" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://github.com/ampaKR0711/ampaKR0711/blob/main/GITHUB_IMAGE.jpeg?raw=true" width="100%" />
