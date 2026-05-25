@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Banner" width="100%" />
+  <img src="https://github.com/ampaKR0711/ampaKR0711/blob/main/github_pic.jpeg?raw=true" width="100%" />
 </p>
 
 # Hi 👋, I'm AMPA RANJAN
