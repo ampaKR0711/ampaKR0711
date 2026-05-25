@@ -78,24 +78,22 @@
 
 
 
-## 📈 GitHub Stats
+## 🏆 GitHub Highlights
 
 <p align="center">
 
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ampaKR0711&show_icons=true&theme=tokyonight" height="180em"/>
 
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ampaKR0711&theme=tokyonight" height="180em"/>
 
 </p>
 
----
-
-## ⏳ Productive Time (IST)
-
 <p align="center">
 
+  <!-- Productive Time -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ampaKR0711&theme=tokyonight&utcOffset=5.5" />
 
 </p>
-
 
