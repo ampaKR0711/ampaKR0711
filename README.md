@@ -100,6 +100,16 @@ Strategic Project Management • Team Leadership • Technical Documentation •
 
 
 
+## 🤝 Let’s Collaborate
+
+If you'd like to collaborate on Data Engineering, Data Analytics, Business Intelligence, or Frontend projects, feel free to connect.
+
+📧 Email: YOUR_EMAIL_HERE
+
+💼 LinkedIn: YOUR_LINKEDIN_PROFILE_HERE
+
+---
+
 ## 🏆 GitHub Highlights
 
 <p align="center">
@@ -119,3 +129,15 @@ Strategic Project Management • Team Leadership • Technical Documentation •
 
 </p>
 
+
+
+
+## 🤝 Let’s Collaborate
+
+If you'd like to collaborate on Data Engineering, Data Analytics, Business Intelligence, or Frontend projects, feel free to connect.
+
+📧 Email: YOUR_EMAIL_HERE
+
+💼 LinkedIn: YOUR_LINKEDIN_PROFILE_HERE
+
+---
