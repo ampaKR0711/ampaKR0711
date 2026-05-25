@@ -97,37 +97,24 @@ Strategic Project Management • Team Leadership • Technical Documentation •
 
 
 
-
-
-
-
 ## 🏆 GitHub Highlights
 
 <p align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ampaKR0711&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=ampaKR0711&theme=tokyonight&hide_border=true" height="180em"/>
-
-</p>
-
-<p align="center">
+  <!-- Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ampaKR0711&theme=github_dark" height="180em"/>
 
   <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ampaKR0711&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ampaKR0711&theme=github_dark&utcOffset=5.5" height="180em"/>
 
 </p>
 
 <p align="center">
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampaKR0711&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=ampaKR0711&theme=tokyonight&hide_border=true" height="200em"/>
 
 </p>
-
-
 
 
 ## 🤝 Let’s Collaborate
