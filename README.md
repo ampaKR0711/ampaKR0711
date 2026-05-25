@@ -87,7 +87,13 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 
 
+## 🛠️ Skills Snapshot
 
+### 💻 Technical Skills
+Data Engineering • Data Analytics • ETL Pipeline Development • PostgreSQL • Apache Spark • PySpark • Databricks • Power BI Dashboarding • Data Visualization • Frontend Development •  Business Intelligence
+
+### 🤝 Soft Skills
+Strategic Project Management • Team Leadership • Technical Documentation • Stakeholder Pitching • Analytical Problem Solving
 
 
 
