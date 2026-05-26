@@ -3,7 +3,7 @@
   <img src="https://github.com/ampaKR0711/ampaKR0711/blob/main/github_pic.jpeg?raw=true" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ampa Ranjan</h1>
+<h1 align="center">Namaste 🙏 , I'm Ampa Ranjan</h1>
 
 <h3 align="center">
 Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent Systems Builder
