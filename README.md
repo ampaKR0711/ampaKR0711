@@ -22,11 +22,15 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 ---
 
-# 🌟 Interests Beyond Tech
+## 🌟 Interests Beyond Tech
 
-💃 Dance  
-📖 Diary Writing  
+💃 Dancing  
+📖 Journaling  
 🐎 Horse Riding  
+
+### 🎯 Future Goals
+
+🏹 Planning to learn Archery and Guitar 🎸 
 
 
 ---
