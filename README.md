@@ -8,9 +8,10 @@
 
 ---
 
-<p align="center">
+ <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ampaKR0711&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=ampaKR0711&theme=tokyonight&hide_border=true&border_radius=12"
+    height="180em"
   />
+
 </p>
