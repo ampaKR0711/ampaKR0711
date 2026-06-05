@@ -155,3 +155,28 @@ If you'd like to collaborate on Data Engineering, Data Analytics, Business Intel
 💼 LinkedIn: YOUR_LINKEDIN_PROFILE_HERE
 
 ---
+
+
+
+
+## 🏆 GitHub Highlights
+
+### 📈 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ampaKR0711&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampaKR0711&layout=compact&theme=tokyonight" />
+</p>
+
+
+
+
+
+
