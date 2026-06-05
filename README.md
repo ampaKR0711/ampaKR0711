@@ -1,7 +1,14 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/ampaKR0711/ampaKR0711/blob/main/github_pic.jpeg?raw=true" width="100%" />
+</p>
 
-# Namaste 🙏, I'm Ampa Ranjan
+<h1 align="center">Namaste 🙏 , I'm Ampa Ranjan</h1>
 
-### Aspiring Data Engineer • Financial Analytics Enthusiast • Business Intelligence Explorer
+<h3 align="center">
+Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent Systems Builder
+</h3>
+
 
 ---
 
@@ -15,31 +22,19 @@
 
 📊 Love building interactive Power BI dashboards and transforming data into meaningful insights
 
-🧠 Exploring scalable data pipelines, AI systems, analytics engineering, and data-driven decision making
-
-💡 Building projects that combine data, automation, analytics, and real-world problem solving
-
 ---
+
 
 ## 🌟 Interests Beyond Tech
 
-💃 Dancing
+💃 Dancing  
+📖 Journaling  
+🐎 Horse Riding  
 
-📖 Journaling
+### 🎯 Future Goals
 
-🐎 Horse Riding
+🏹 Planning to learn Archery and Guitar 🎸 
 
----
-
-## 🎯 Future Goals
-
-🏹 Planning to learn Archery
-
-🎸 Planning to learn Guitar
-
-📚 Pursuing advanced studies in Data Science, Analytics, and Intelligent Systems
-
-📈 Building expertise in Financial Analytics, Business Intelligence, and Data Engineering
 
 ---
 
@@ -51,7 +46,7 @@
 
 🔹 Event Management Team Co-Lead — H & P Projects
 
-🔹 Associated with EdiGlobe
+
 
 ---
 
@@ -65,21 +60,17 @@
 
 📊 Building Business Intelligence & Power BI Dashboards
 
-🧠 Exploring Data Science, Analytics Engineering, and AI Applications
 
-📚 Preparing for the BS Degree in Data Science and Applications from IIT Madras
 
 ---
 
-## 📚 Research & Publications
+## 📚 Research & Thesis Work
 
 📄 Conducted research work on:
 
-**"Monkeypox Detection and Analysis using Artificial Intelligence and Data-Driven Approaches"**
+**"Monkeypox Detection and Analysis using Artificial Intelligence and Deep Learning Approaches"**
 
-🔬 Interested in Artificial Intelligence, Intelligent Systems, Healthcare Analytics, Data Science, and Robotics
-
-🤖 Aspiring to pursue future research and thesis work in Robotics and Intelligent Autonomous Systems
+🤖 Upcoming ---- Thesis work in Robotics and Intelligent Autonomous Systems
 
 ---
 
@@ -94,6 +85,7 @@
 * IIT Kharagpur Hackathon
 * Databricks × Accenture Data & AI Challenge
 * Economic Times Innovation & AI Challenges
+* Hack with Gemini 2025
 * Upcoming Participant — Smart India Hackathon (SIH) 2026
 
 ---
@@ -108,37 +100,66 @@
 
 📈 Business Intelligence
 
-🤖 Artificial Intelligence & Intelligent Systems
-
-🤖 Robotics & Autonomous Systems
-
 🌐 Web Development
 
-📚 Data Science & Analytics
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</p>
 
-Python • Java • C • SQL • HTML • CSS • JavaScript
+
+
 
 ### 📊 Data Engineering & Analytics
+<p align="left">
 
-Power BI • Databricks • Apache Spark • PySpark • SQL • PostgreSQL • Pandas • NumPy
+  <!-- PostgreSQL -->
+  <img src="https://skillicons.dev/icons?i=postgres" height="48"/>
 
-### 🤖 AI & Machine Learning
+  <!-- Apache Spark -->
+  <img src="https://spark.apache.org/images/spark-logo-trademark.png" height="48"/>
 
-Scikit-Learn • SHAP • Data Visualization • Predictive Analytics
+  <!-- Databricks -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="48"/>
 
-### 🌐 Web Development
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
 
-HTML • CSS • JavaScript • Responsive Web Design
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
 
-### 🛠️ Tools & Platforms
 
-Git • GitHub • VS Code • Jupyter Notebook • Power BI Desktop
+</p>
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+
+
+### 🛠️ Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,github" />
+  
+  <img src="https://cdn.simpleicons.org/googlecolab" height="48"/>
+  <img src="https://cdn.simpleicons.org/jupyter" height="48"/>
+  
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48"/>
+</p>
+
+
+### 🎨 Creative Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48"/>
+</p>
 
 ---
 
@@ -158,28 +179,10 @@ Git • GitHub • VS Code • Jupyter Notebook • Power BI Desktop
 
 ---
 
-## 🚀 Featured Projects
-
-🏥 Healthcare Capability Intelligence Dashboard
-
-🏏 IPL 2025 Performance Analytics Dashboard
-
-💰 Financial Analytics Dashboard
-
-🤖 Elabs Data Analytics & Machine Learning Projects
-
-🌐 EICT Academy IIT Roorkee Web Development Projects
-
-📊 Power BI Dashboard Portfolio
-
----
-
 ## 🤝 Let's Connect
 
-📧 Email: YOUR_EMAIL_HERE
-
-💼 LinkedIn: YOUR_LINKEDIN_PROFILE
-
+📧 Email: krishnampa0711@gmail.com
+💼 LinkedIn: https://in.linkedin.com/in/ampa-ranjan-21749338a
 🐙 GitHub: ampaKR0711
 
 ---
@@ -188,55 +191,4 @@ Git • GitHub • VS Code • Jupyter Notebook • Power BI Desktop
 
 Transforming data into actionable insights through Analytics, Business Intelligence, Data Engineering, and Intelligent Systems.
 
-Building solutions that combine technology, analytics, and innovation to solve real-world problems.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 🏆 GitHub Highlights
-
-## 📊 Profile Details
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ampaKR0711&theme=tokyonight"
-    alt="GitHub Profile Details"
-    width="95%"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ampaKR0711&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="GitHub Streak"
-    width="80%"
-  />
-</p>
+Building solutions that combine technology, analytics, and innovation to solve real world problems.
