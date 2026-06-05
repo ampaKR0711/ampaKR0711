@@ -7,6 +7,9 @@
 </p>
 
 ---
+
+## GitHub Streak
+
 <p align="center">
  <!-- GitHub Streak -->
   <img 
