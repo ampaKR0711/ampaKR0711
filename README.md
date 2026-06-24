@@ -187,8 +187,4 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 ---
 
-### ⭐ Repository Vision
 
-Transforming data into actionable insights through Analytics, Business Intelligence, Data Engineering, and Intelligent Systems.
-
-Building solutions that combine technology, analytics, and innovation to solve real world problems.
