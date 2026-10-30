@@ -193,3 +193,53 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 ---
 
 
+
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Data Analysis
+
+![Python](https://skillicons.dev/icons?i=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🛰️ Geospatial Technology & Remote Sensing
+
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-4B8B3B?style=for-the-badge)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
+![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge)
+
+**GIS • GPS Applications • Remote Sensing • Landsat 8 • Satellite Imagery • Raster Analysis • NDWI • MNDWI • Surface-Water Mapping**
+
+### 🌍 Earth Observation & Geospatial Data Access
+
+![STAC](https://img.shields.io/badge/STAC-Catalogs-2673A8?style=for-the-badge)
+![Planetary Computer](https://img.shields.io/badge/Microsoft%20Planetary%20Computer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Raster Data](https://img.shields.io/badge/GeoTIFF-Raster%20Data-477A52?style=for-the-badge)
+
+**STAC API • Planetary Computer • Landsat Collection 2 Level-2 • QA_PIXEL • QA_RADSAT**
+
+### 📊 Data Engineering & Big Data
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 📈 Business Intelligence & Financial Analytics
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Financial Analytics • Stock Market Analysis • Data Visualization • Interactive Dashboards**
+
+### 🛠️ Development & Research Tools
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
+### 🎨 Creative & Presentation Tools
+
+![Canva](https://skillicons.dev/icons?i=canva)
