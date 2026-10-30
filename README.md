@@ -237,3 +237,45 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48"/>
 </p>
+
+
+
+
+
+
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" height="50" alt="Anaconda"/>
+</p>
+
+### 🛰️ Geospatial Technology & Remote Sensing
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/qgis/QGIS@master/images/icons/qgis_icon.svg" height="50" alt="QGIS"/>
+</p>
+
+### 📊 Data Engineering & Analytics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="50" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=databricks&theme=dark" height="50" alt="Databricks"/>
+  <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" height="50" alt="Power BI"/>
+</p>
+
+### 🛠️ Development & Research Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,jupyter&theme=dark" height="50" alt="VS Code, GitHub, Git and Jupyter"/>
+  <img src="https://skillicons.dev/icons?i=colab&theme=dark" height="50" alt="Google Colab"/>
+</p>
+
+### 🎨 Creative Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=canva&theme=dark" height="50" alt="Canva"/>
+</p>
