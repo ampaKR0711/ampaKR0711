@@ -244,40 +244,47 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 
 
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Data Science
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ### 🛰️ Geospatial Technology & Remote Sensing
 
 <p align="left">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
-  <img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge" alt="GDAL"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rasterio-477A52?style=for-the-badge" />
 </p>
 
 ### 📊 Data Engineering & Analytics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ### 🛠️ Development & Research Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="50" alt="VS Code, Git and GitHub"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ### 🎨 Creative Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=canva" height="50" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
