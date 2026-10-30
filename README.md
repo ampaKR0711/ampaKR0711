@@ -154,28 +154,6 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48"/>
 </p>
 
-
-
-
-### 🛠️ Development Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github" />
-  
-  <img src="https://cdn.simpleicons.org/googlecolab" height="48"/>
-  <img src="https://cdn.simpleicons.org/jupyter" height="48"/>
-  
-  <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48"/>
-</p>
-
-
-### 🎨 Creative Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48"/>
-</p>
-
----
-
 ## 🏆 GitHub Highlights
 
 ### 📊 Profile Details
@@ -203,45 +181,3 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 
 
-## 🛠️ Tech Stack
-
-### 💻 Programming & Data Science
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
-</p>
-
-### 🛰️ Geospatial Technology & Remote Sensing
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/qgis/QGIS/master/images/svg/logos/qgis-logo.svg" height="48"/>
-  <img src="https://cdn.simpleicons.org/gdal/5CAE58" height="48"/>
-  <img src="https://cdn.simpleicons.org/geopandas/139C5A" height="48"/>
-</p>
-
-### 📊 Data Engineering & Analytics
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48"/>
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48"/>
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons@main/SVG/Power-BI.svg" height="48"/>
-</p>
-
-### 🛠️ Development & Research Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48"/>
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48"/>
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48"/>
-</p>
-
-### 🎨 Creative Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48"/>
-</p>
