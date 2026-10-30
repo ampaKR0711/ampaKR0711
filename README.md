@@ -249,33 +249,35 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 ### 💻 Programming & Data Science
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" height="50" alt="Anaconda"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
 </p>
 
 ### 🛰️ Geospatial Technology & Remote Sensing
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/qgis/QGIS@master/images/icons/qgis_icon.svg" height="50" alt="QGIS"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
+  <img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge" alt="GDAL"/>
 </p>
 
 ### 📊 Data Engineering & Analytics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="50" alt="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=databricks&theme=dark" height="50" alt="Databricks"/>
-  <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" height="50" alt="Power BI"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
 ### 🛠️ Development & Research Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,jupyter&theme=dark" height="50" alt="VS Code, GitHub, Git and Jupyter"/>
-  <img src="https://skillicons.dev/icons?i=colab&theme=dark" height="50" alt="Google Colab"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="50" alt="VS Code, Git and GitHub"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 </p>
 
 ### 🎨 Creative Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=canva&theme=dark" height="50" alt="Canva"/>
+  <img src="https://skillicons.dev/icons?i=canva" height="50" alt="Canva"/>
 </p>
