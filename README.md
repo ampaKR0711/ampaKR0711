@@ -208,58 +208,6 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 ### 💻 Programming & Data Science
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" />
-</p>
-
-### 🛰️ Geospatial Technology & Remote Sensing
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" height="48" />
-  <img src="https://cdn.simpleicons.org/gdal/5CAE58" height="48" />
-  <img src="https://cdn.simpleicons.org/geopandas/139C5A" height="48" />
-  <img src="https://cdn.simpleicons.org/rasterio/477A52" height="48" />
-</p>
-
-### 📊 Data Engineering & Analytics
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" />
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" />
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" />
-</p>
-
-### 🛠️ Development & Research Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git" height="48" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" />
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" />
-</p>
-
-### 🎨 Creative Tools
-
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-## 🛠️ Tech Stack
-
-### 💻 Programming & Data Science
-
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
