@@ -78,17 +78,17 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 ## 🏆 Hackathons & Competitions
 
-🚀 Participated in 15+ Hackathons, Innovation Challenges, and Technical Competitions across AI, Analytics, Data Engineering, Business Intelligence, and Software Development domains
+🚀 Participated in 15+ Hackathons, Innovation Challenges, and Technical Competitions across AI, Analytics, Data Engineering, Business Intelligence, and Software Development.
 
-⭐ Notable Participations:
+⭐ **Notable Participations:**
 
-* Grace Hopper Celebration India (GHCI) 2025
-* Student Developer & Innovation Summit (SDIS) 2026
-* IIT Kharagpur Hackathon
-* Databricks × Accenture Data & AI Challenge
-* Economic Times Innovation & AI Challenges
-* Hack with Gemini 2025
-* Upcoming Participant — Smart India Hackathon (SIH) 2026
+- Grace Hopper Celebration India (GHCI) 2025
+- Student Developer & Innovation Summit (SDIS) 2026
+- IIT Kharagpur Hackathon
+- Databricks × Accenture Data & AI Challenge
+- Economic Times Innovation & AI Challenges
+- Hack with Gemini 2025
+- World Standards Day – Manak Mahotsav 2026 — Bureau of Indian Standards (BIS), Bhubaneswar Branch Office | KIIT University
 
 ---
 
