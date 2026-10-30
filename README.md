@@ -199,32 +199,40 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 ### 💻 Programming & Data Science
 
-![Python](https://skillicons.dev/icons?i=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" />
+</p>
 
-### 🛰️ Geospatial & Remote Sensing
+### 🛰️ Geospatial Technology & Remote Sensing
 
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge)
-![Rasterio](https://img.shields.io/badge/Rasterio-4B8B3B?style=for-the-badge)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" height="48" />
+  <img src="https://cdn.simpleicons.org/gdal/5CAE58" height="48" />
+  <img src="https://cdn.simpleicons.org/geopandas/139C5A" height="48" />
+  <img src="https://cdn.simpleicons.org/rasterio/477A52" height="48" />
+</p>
 
 ### 📊 Data Engineering & Analytics
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" />
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" />
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" />
+</p>
 
 ### 🛠️ Development & Research Tools
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,github,git" height="48" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" />
+</p>
 
 ### 🎨 Creative Tools
 
-![Canva](https://skillicons.dev/icons?i=canva)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=canva" height="48" />
+</p>
