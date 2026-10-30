@@ -94,15 +94,18 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 ## 🎯 Areas of Interest
 
-📊 Data Analytics
+🛰️ Geospatial Technology & GIS Applications
 
-⚙️ Data Engineering
+🌍 Remote Sensing & Earth Observation
 
-💰 Financial & Stock Market Analytics
+🗺️ Satellite-Based Environmental Monitoring
 
-📈 Business Intelligence
+📊 Data Science, Analytics & Business Intelligence
 
-🌐 Web Development
+💰 Financial Analytics & Stock Market Research
+
+⚙️ Data Engineering & Intelligent Systems
+
 
 
 
