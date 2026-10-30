@@ -14,14 +14,15 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science & Engineering Student at KIIT University
+🎓 B.Tech Computer Science & Engineering Student at **KIIT University**
+
+🎓 Pursuing **BS in Management and Data Science from IIT Madras**
 
 📊 Passionate about Data Engineering, Data Analytics, Business Intelligence, and Intelligent Systems
 
 📈 Strong interest in Financial Analytics & Stock Market Analysis
 
 📊 Love building interactive Power BI dashboards and transforming data into meaningful insights
-
 ---
 
 
