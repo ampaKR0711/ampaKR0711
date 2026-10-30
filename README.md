@@ -233,6 +233,7 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 ### 🎨 Creative Tools
 
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=canva" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48"/>
 </p>
