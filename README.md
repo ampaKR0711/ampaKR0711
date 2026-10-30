@@ -246,56 +246,46 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 
 
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Data Science
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
 </p>
 
 ### 🛰️ Geospatial Technology & Remote Sensing
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/qgis/589632" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gdal/5CAE58" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/geopandas/139C5A" height="48" />
+  <img src="https://raw.githubusercontent.com/qgis/QGIS/master/images/svg/logos/qgis-logo.svg" height="48"/>
+  <img src="https://cdn.simpleicons.org/gdal/5CAE58" height="48"/>
+  <img src="https://cdn.simpleicons.org/geopandas/139C5A" height="48"/>
 </p>
 
 ### 📊 Data Engineering & Analytics
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48"/>
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48"/>
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons@main/SVG/Power-BI.svg" height="48"/>
 </p>
 
 ### 🛠️ Development & Research Tools
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48"/>
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48"/>
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48"/>
 </p>
 
 ### 🎨 Creative Tools
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48"/>
 </p>
