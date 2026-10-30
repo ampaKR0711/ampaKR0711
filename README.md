@@ -53,14 +53,15 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 ## 🌱 Currently Working On
 
-🌐 Summer Intern Trainee (Web Development) — EICT Academy, IIT Roorkee
+🛰️ Exploring **GIS, GPS Applications, Remote Sensing, and Earth Observation** through IIRS (ISRO) learning resources
 
-⚙️ Pursuing Data Engineering Training Program by LTIMindtree
+🌍 Developing **KRIPA GeoSentinel** — a satellite-based project focused on surface-water mapping and environmental monitoring
 
-📈 Learning Stock Market & Financial Analytics through EdiGlobe
+📊 Strengthening skills in **Python, Geospatial Data Analysis, and Power BI** for data-driven insights
 
-📊 Building Business Intelligence & Power BI Dashboards
+📈 Exploring **Financial Analytics, Stock Market Analysis, and data-driven investment insights**
 
+💡 Pursuing an interdisciplinary learning path across **Geospatial Technology, Data Science, and Finance**
 
 
 ---
