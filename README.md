@@ -245,46 +245,57 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 
 
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Data Science
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" />
 </p>
 
 ### 🛰️ Geospatial Technology & Remote Sensing
 
 <p align="left">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rasterio-477A52?style=for-the-badge" />
+  <img src="https://cdn.simpleicons.org/qgis/589632" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gdal/5CAE58" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/geopandas/139C5A" height="48" />
 </p>
 
 ### 📊 Data Engineering & Analytics
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" />
 </p>
 
 ### 🛠️ Development & Research Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" />
 </p>
 
 ### 🎨 Creative Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" />
 </p>
